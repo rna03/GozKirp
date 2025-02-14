@@ -1,0 +1,13 @@
+C:\Users\Rana\source\repos\GifPlayerApp\GifPlayerApp\obj\Debug\GifPlayerApp.csproj.AssemblyReference.cache
+C:\Users\Rana\source\repos\GifPlayerApp\GifPlayerApp\obj\Debug\GifPlayerApp.Form1.resources
+C:\Users\Rana\source\repos\GifPlayerApp\GifPlayerApp\obj\Debug\GifPlayerApp.Properties.Resources.resources
+C:\Users\Rana\source\repos\GifPlayerApp\GifPlayerApp\obj\Debug\GifPlayerApp.csproj.GenerateResource.cache
+C:\Users\Rana\source\repos\GifPlayerApp\GifPlayerApp\obj\Debug\GifPlayerApp.csproj.CoreCompileInputs.cache
+C:\Users\Rana\source\repos\GifPlayerApp\GifPlayerApp\bin\Debug\GifPlayerApp.exe.config
+C:\Users\Rana\source\repos\GifPlayerApp\GifPlayerApp\bin\Debug\GifPlayerApp.exe
+C:\Users\Rana\source\repos\GifPlayerApp\GifPlayerApp\bin\Debug\GifPlayerApp.pdb
+C:\Users\Rana\source\repos\GifPlayerApp\GifPlayerApp\obj\Debug\GifPlayerApp.exe
+C:\Users\Rana\source\repos\GifPlayerApp\GifPlayerApp\obj\Debug\GifPlayerApp.pdb
+C:\Users\Rana\source\repos\GifPlayerApp\GifPlayerApp\bin\Debug\Microsoft.Win32.dll
+C:\Users\Rana\source\repos\GifPlayerApp\GifPlayerApp\bin\Debug\Microsoft.Win32.xml
+C:\Users\Rana\source\repos\GifPlayerApp\GifPlayerApp\obj\Debug\GifPlaye.CCBA0E46.Up2Date
